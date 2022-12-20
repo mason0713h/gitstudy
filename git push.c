@@ -2,7 +2,7 @@
 
 using namespace std;
 
-int main()
+int main()l
 {
 	srand(time(NULL));
 	int correct = 1;
